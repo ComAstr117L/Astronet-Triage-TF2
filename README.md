@@ -1,4 +1,4 @@
-# Richard Piccioni's fork of AstroNet-Triage: A Neural Network for TESS Light Curve Triage
+# Richard Piccioni's fork of AstroNet-Triage, updated to Tensorflow 2.x
 
 Richard Piccioni: rpiccioni@marin.edu
 
