@@ -2,7 +2,7 @@
 
 Richard Piccioni: rpiccioni@marin.edu
 
-*meta note: I am tring to document here my efforts to get these programs to run under Windows Subsystem for Linux (WSL).  See also my Google colaboratory notebook *`drpAstronet_Triage_TF2`*. - rgp*
+*meta note: Originally, I was documenting here my efforts to get You Liang's programs to run under Windows Subsystem for Linux (WSL).  But lately I have been making much more progress in my Google colaboratory notebook *`drpAstronet_Triage_TF2`*. That colab clones this repo, however, so this is where changes to Yu Liang's code (e.g., to implement an upgrade to TF2) need to be made- rgp*
 
 ![Transit Animation](docs/transit.gif)
 
