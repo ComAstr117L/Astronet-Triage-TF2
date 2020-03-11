@@ -2,7 +2,7 @@
 
 Richard Piccioni: rpiccioni@marin.edu
 
-*meta note: I am tring to document here my efforts to get these programs to run under Windows Subsystem for Linux (WSL).  See also my Google colaboratory notebook *`drpAstronet_Triage`*. - rgp*
+*meta note: I am tring to document here my efforts to get these programs to run under Windows Subsystem for Linux (WSL).  See also my Google colaboratory notebook *`drpAstronet_Triage_TF2`*. - rgp*
 
 ![Transit Animation](docs/transit.gif)
 
